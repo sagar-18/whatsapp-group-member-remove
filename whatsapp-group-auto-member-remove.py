@@ -37,7 +37,7 @@ def hover_over_element(driver, element):
 
 try:
     # Specify the group name
-    group_name = "your-group-name"  # Replace this with your group's name
+    group_name = "https://chat.whatsapp.com/Bgg1l5tTcJl3NpOuXfqdSp"  # Replace this with your group's name
 
     # Locate the search box, type the group name, and select the group
     print("Locating the search box and typing the group name...")
